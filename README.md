@@ -1,1 +1,1 @@
-readme
+memeinvázió frontend kódjának fejlesztése
